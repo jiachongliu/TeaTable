@@ -1,3 +1,3 @@
 # TeaTable
-an Anonymous chat site
+a site
 ## Getting Started
